@@ -51,7 +51,7 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
           <mxGeometry x="80" y="214" width="69" height="56" as="geometry" />
         </mxCell>
         <mxCell id="zWfcgQmADSfpy4Z5ZYwm-20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" parent="1" vertex="1">
-          <mxGeometry x="80" y="340" width="69" height="56.00000000000001" as="geometry" />
+          <mxGeometry x="80" y="340" width="69" height="56.00000000000001" as="geometry" />  
         </mxCell>
         <mxCell id="zWfcgQmADSfpy4Z5ZYwm-21" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.csv_file;" parent="1" vertex="1">
           <mxGeometry x="130" y="250" width="40" height="33" as="geometry" />
